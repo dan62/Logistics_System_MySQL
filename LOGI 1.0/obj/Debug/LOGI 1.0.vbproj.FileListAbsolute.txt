@@ -1,0 +1,22 @@
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\LOGI 1.0.exe.config
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\LOGI 1.0.exe
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\LOGI 1.0.pdb
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\LOGI 1.0.xml
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Form1.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Form2.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Form3.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Resources.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI 1.0.vbproj.GenerateResource.Cache
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI 1.0.exe
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI 1.0.xml
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI 1.0.pdb
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\MySql.Web.v20.dll
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Form4.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Supplier_Profile.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI_1._0.Form5.resources
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\LOGI 1.0.exe.manifest
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\bin\Debug\LOGI 1.0.application
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI 1.0.exe.manifest
+C:\Users\Danie\Desktop\project with design 2\LOGI 1.0\LOGI 1.0\obj\Debug\LOGI 1.0.application
